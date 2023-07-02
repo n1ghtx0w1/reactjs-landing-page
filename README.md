@@ -1,4 +1,4 @@
-# Recruit Landing Page
+# Landing Page App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
