@@ -1,9 +1,14 @@
 # Recruit Landing Page
 
-- Landing page in reactjs with video
-- Button transition effect
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![landing](https://raw.githubusercontent.com/n1ghtx0w1/reactjs-landing-page/main/src/assets/landing-app.png)
+
+- Landing page in reactjs with video
+
+![Menu](https://raw.githubusercontent.com/n1ghtx0w1/reactjs-landing-page/main/src/assets/landing-app-button.png)
+
+- Button transition effect
 
 ## Available Scripts
 
